@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell navigation
+This is a guide on unix/linux shell navigation
